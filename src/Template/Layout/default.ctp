@@ -178,7 +178,7 @@ p + h2 {
   margin-top: 2em;
 }
 html {
-  background: #f5f5f5;
+  background:  #ffe6e6;
   height: 100%;
 }
 code {
